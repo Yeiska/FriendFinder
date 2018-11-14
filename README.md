@@ -12,8 +12,8 @@
 ![Match Image](app/public/img/match.png)
 
 ## Technologies used
-####* Node.js
-####* body-parager 
-####*NPM Package
-####* express NPM Package 
-####* path NPM Package
+* Node.js
+* body-parager 
+* NPM Package
+* express NPM Package 
+* path NPM Package
