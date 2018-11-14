@@ -12,7 +12,8 @@
 ![Match Image](app/public/img/match.png)
 
 ## Technologies used
-* Node.js
-* body-parager NPM Package - https://www.npmjs.com/package/inquirer
-* express NPM Package - https://www.npmjs.com/package/express
-* path NPM Package - https://www.npmjs.com/package/path
+####* Node.js
+####* body-parager 
+####*NPM Package
+####* express NPM Package 
+####* path NPM Package
